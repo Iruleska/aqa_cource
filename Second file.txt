@@ -1,0 +1,4 @@
+The first thing you should do when you install Git is to set your user name and email address. 
+
+
+https://www.git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
